@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = ' 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';
 const submitButton = document.querySelector('#submit');
 const outPutElement = document.querySelector('#output')
 const inputElement = document.querySelector('input')
@@ -144,3 +144,4 @@ function clearInput(){
 }
 
 buttonElement.addEventListener('click', clearInput)
+//
